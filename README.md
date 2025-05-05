@@ -1,4 +1,4 @@
 # MPKCR: Multi-Aspect Knowledge-Enhanced Hypergraph Attention Network for Conversational Recommendation
 
-🚧 **Work in Progress** 🚧  
-We are currently organizing and cleaning the code for the MPKCR model. The full implementation will be released soon to support reproducibility and further research.  
+This repository has been created and is currently under organization.  
+The full code and documentation will be uploaded soon. Thank you for your patience!
