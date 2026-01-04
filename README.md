@@ -18,4 +18,4 @@ python run_crslab.py --config config/crs/mpkcr/htgredial.yaml -g 0 -s 1 -p -e 10
 ```
 
 ## Acknowledgement
-The implementation is based on the open-source CRS toolkit CRSLab .
+The implementation is based on the open-source CRS toolkit [CRSLab](https://github.com/RUCAIBox/CRSLab).
